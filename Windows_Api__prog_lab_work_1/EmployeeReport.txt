@@ -1,0 +1,2 @@
+Report of a file "Employee.bin" :
+Vasya 2 3.4 6.8

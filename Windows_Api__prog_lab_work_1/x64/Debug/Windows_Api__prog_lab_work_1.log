@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Windows_Api__prog_lab_work_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Reporter.cpp
+  Windows_Api__prog_lab_work_1.vcxproj -> C:\Users\r1r2\Desktop\code\Windows_Api__prog_lab_work_1\x64\Debug\Reporter.exe
