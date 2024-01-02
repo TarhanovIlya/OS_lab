@@ -1,0 +1,5 @@
+﻿  Receiver.cpp
+  Sender.cpp
+  Generating Code...
+Sender.obj : error LNK2005: main already defined in Receiver.obj
+C:\Users\r1r2\Desktop\code\Windows_api_labWork_4_fixed\x64\Debug\Windows_api_labWork_4_fixed.exe : fatal error LNK1169: one or more multiply defined symbols found

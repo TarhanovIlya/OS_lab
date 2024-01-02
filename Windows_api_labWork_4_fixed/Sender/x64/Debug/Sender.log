@@ -1,0 +1,3 @@
+﻿  Sender.cpp
+C:\Users\r1r2\Desktop\code\Windows_api_labWork_4_fixed\Sender.cpp(66,7): warning C4101: 'buffer': unreferenced local variable
+  Sender.vcxproj -> C:\Users\r1r2\Desktop\code\Windows_api_labWork_4_fixed\x64\Debug\Sender.exe
